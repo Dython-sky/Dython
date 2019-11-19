@@ -1,0 +1,5 @@
+git创建分支
+查看分支：git branch
+创建分支：git branch 分支名
+切换分支：git checkout 分支名
+创建分支并切换 ： git branch -b 分支名
